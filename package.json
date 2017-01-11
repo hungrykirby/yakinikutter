@@ -9,6 +9,7 @@
   "author": "katsuki",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
     "express-session": "^1.14.1",
@@ -18,7 +19,7 @@
     "socket.io": "^1.4.8",
     "twitter": "^1.7.0"
   },
-  "engines":{
+  "engines": {
     "node": "6.2.1",
     "npm": "3.9.3"
   },
